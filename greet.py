@@ -1,1 +1,3 @@
+#Greeting Message
 print "WELCOME TO SMJE4383"
+print "ADVANCED PROGRAMMING"
