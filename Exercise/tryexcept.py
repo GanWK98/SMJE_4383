@@ -19,5 +19,6 @@ try:
 		
 	input_file.close()
 
+#Added Except Error
 except:
 	pass
